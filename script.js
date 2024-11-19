@@ -84,7 +84,7 @@ function solve() {
     let resultHTML = `
         <h3>Solution optimale:</h3>
         <p>Valeur maximale: ${solution.maxValue}</p>
-        <p>Objets sélectionnés:</p>
+        <p>Objets sélectionnés sont :</p>
         <ul>
     `;
 
